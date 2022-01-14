@@ -1,0 +1,15 @@
+{
+  "info_type_transformations": {
+    "transformations": [
+      {
+        "primitive_transformation": {
+          "replace_config": {
+            "new_value": {
+              "string_value": "PERSON_NAME"
+            }
+          }
+        }
+      }
+    ]
+  }
+}
